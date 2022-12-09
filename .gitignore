@@ -2,7 +2,7 @@ Library/
 Temp/
 .vscode/
 Logs/
-Userettings/
+UserSettings/
 Packages/
 *.sln
 *.csproj
