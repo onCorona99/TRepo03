@@ -1,7 +1,18 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+
+# Visual Studio cache directory
+.vs/
+ 
+# Visual Studio Code cache directory
+.vscode/
+
 Library/
 Temp/
-.vscode/
-.vs/
 Logs/
 UserSettings/
 Packages/
