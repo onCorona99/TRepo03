@@ -1,0 +1,10 @@
+-- print('print this using lua, to move up the cube')
+-- local cube = CS.UnityEngine.GameObject.Find("GOControlledByLua")
+
+-- cube.transform.position = CS.UnityEngine.Vector3(-2.5,3,0)
+
+local ShopPanel = CS.ShopPanel
+local shopPanel = ShopPanel()
+CS.PanelStack.Instance:Push(shopPanel)
+print('ShopPanel instance has been generated and Push into PanelStack')
+
