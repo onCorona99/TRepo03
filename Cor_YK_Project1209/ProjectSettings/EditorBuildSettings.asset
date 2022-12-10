@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01UIFramework/Scenes/Presistence.unity
+    guid: 6557fec4bd1e7db41acfce4a49aefa3d
+  - enabled: 1
+    path: Assets/01UIFramework/Scenes/StartScene.unity
+    guid: c6d2e2455c9c2a143b855f74eddd7391
+  - enabled: 1
+    path: Assets/01UIFramework/Scenes/MainScene.unity
+    guid: 80b86083089d49d44a9d785bdd9964c8
   m_configObjects: {}
